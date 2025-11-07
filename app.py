@@ -1,6 +1,3 @@
-"Replace your entire app.py file with this **clean, properly formatted** version:
-
-```python
 import streamlit as st
 import pandas as pd
 import numpy as np
